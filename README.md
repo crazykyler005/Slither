@@ -6,7 +6,7 @@ This application is a clone of snake written in pygame which was made to get fam
 
 The game utilizes the python game library pygame, random number generator and keyboard input. It's based off the well known game Snake and the objective is to see how long a controlled snake grows by eating apples, which are spawned in at random locations, before you collide into your self or the edges of the screen. Features include pause fuctionality, a score which is constantly updated, a high score which is saved and loaded upon exit and launch of the game, and two different interfaces for starting and restarting the game.
 
-## Changes
+## Change Log
 ### v1.2.0
 - added a high score to game over screen
 - the score text while playing only increases size when a new high score is achieved
